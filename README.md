@@ -2,10 +2,6 @@
   README DE PERFIL DO GITHUB
   Este arquivo aparece no topo de https://github.com/nicolasmoreiraferreira
 
-  ANTES DE PUBLICAR, substitua os campos marcados com TODO:
-    - Link do LinkedIn (procure por "TODO-LINKEDIN")
-    - E-mail de contato (procure por "TODO-EMAIL")
-
   Para atualizar: edite este arquivo e rode
     git add -A && git commit -m "docs: atualiza apresentação" && git push
 -->
@@ -92,8 +88,8 @@ persistência de estado, empacotamento para Windows e pipeline de releases versi
 ## Contato
 
 - **Portfólio:** [nicolasmoreiraferreira.github.io/portfolio](https://nicolasmoreiraferreira.github.io/portfolio/)
-- **LinkedIn:** <!-- TODO-LINKEDIN --> [https://www.linkedin.com/in/nicolas-snay-8448462a5/](https://www.linkedin.com/in/nicolas-snay-8448462a5/)
-- **E-mail:** <!-- TODO-EMAIL -->  nikola.snay@hotmail.com
+- **LinkedIn:** [linkedin.com/in/nicolas-snay-8448462a5](https://www.linkedin.com/in/nicolas-snay-8448462a5/)
+- **E-mail:** nikola.snay@hotmail.com
 
 ---
 
