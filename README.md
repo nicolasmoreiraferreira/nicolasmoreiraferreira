@@ -75,7 +75,7 @@ no desenvolvimento de interfaces com React e TypeScript.
 ## Contato
 
 - **Portfólio:** [nicolasmoreiraferreira.github.io/portfolio](https://nicolasmoreiraferreira.github.io/portfolio/)
-- **LinkedIn:** <!-- TODO-LINKEDIN --> [adicionar link do LinkedIn](https://www.linkedin.com/in/nicolas-snay-8448462a5/)
+- **LinkedIn:** <!-- TODO-LINKEDIN --> [https://www.linkedin.com/in/nicolas-snay-8448462a5/](https://www.linkedin.com/in/nicolas-snay-8448462a5/)
 - **E-mail:** <!-- TODO-EMAIL -->  nikola.snay@hotmail.com
 
 ---
