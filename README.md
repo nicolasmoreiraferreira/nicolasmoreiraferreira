@@ -88,7 +88,7 @@ persistência de estado, empacotamento para Windows e pipeline de releases versi
 ## Contato
 
 - **Portfólio:** [nicolasmoreiraferreira.github.io/portfolio](https://nicolasmoreiraferreira.github.io/portfolio/)
-- **LinkedIn:** [linkedin.com/in/nicolas-snay-8448462a5](https://www.linkedin.com/in/nicolas-snay-8448462a5/)
+- **LinkedIn:** [linkedin.com/in/nicolasmoreiraferreira](https://www.linkedin.com/in/nicolasmoreiraferreira/)
 - **E-mail:** nikola.snay@hotmail.com
 
 ---
