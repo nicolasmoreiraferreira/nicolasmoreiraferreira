@@ -10,7 +10,7 @@
 
 # Nicolas Moreira Ferreira
 
-**Desenvolvedor Full Stack · São Paulo, Brasil**
+**Desenvolvedor Full Stack · São Vicente, São Paulo, Brasil**
 
 Construo interfaces web com HTML semântico, CSS moderno e JavaScript/TypeScript, e
 desenvolvo automações e integrações em Python e Node.js. Cursando Análise e Desenvolvimento
@@ -25,7 +25,7 @@ de Sistemas. Foco em código legível, acessibilidade, performance e confiabilid
 
 ## Sobre mim
 
-Sou desenvolvedor full stack em São Paulo, em busca da primeira oportunidade profissional
+Sou desenvolvedor full stack em São Vicente, no litoral de São Paulo, em busca da primeira oportunidade profissional
 (estágio ou júnior). Curso o Superior de Tecnologia em **Análise e Desenvolvimento de
 Sistemas** na Cruzeiro do Sul (EAD) e trabalho em projetos próprios que cobrem as duas pontas
 da aplicação.
@@ -94,5 +94,5 @@ persistência de estado, empacotamento para Windows e pipeline de releases versi
 ---
 
 <div align="center">
-<sub>Aberto a oportunidades de estágio e posições júnior em front-end — São Paulo ou remoto.</sub>
+<sub>Aberto a oportunidades de estágio e posições júnior — Baixada Santista, São Paulo capital ou remoto.</sub>
 </div>
