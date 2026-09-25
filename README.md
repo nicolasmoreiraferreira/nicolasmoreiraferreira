@@ -33,9 +33,10 @@ da aplicação.
 **Front-end:** construo interfaces com React e TypeScript, cuidando de componentização,
 tipagem estática, consumo de APIs REST e experiência de uso.
 
-**Back-end e automação:** desenvolvo em Python e Node.js. Mantenho em produção um sistema
-de automação de processos web com mais de 190 módulos, orquestração de sessões de navegador,
-persistência de estado, empacotamento para Windows e pipeline de releases versionadas.
+**Back-end e automação:** desenvolvo em Node.js e Python. Mantenho em produção um painel
+financeiro web com API tipada (tRPC), banco de dados MySQL e lançamento por WhatsApp, além de
+um sistema de automação de processos web com mais de 190 módulos, orquestração de sessões de
+navegador, persistência de estado e pipeline de releases versionadas.
 
 - Trato **acessibilidade (WCAG)** e **responsividade** como requisitos, não como extras.
 - Aplico **testes de regressão** e **CI/CD** para impedir que código quebrado chegue à produção.
@@ -53,6 +54,10 @@ persistência de estado, empacotamento para Windows e pipeline de releases versi
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logoColor=black)
+![Vitest](https://img.shields.io/badge/Vitest-6DA13F?style=flat-square&logo=vitest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
@@ -65,7 +70,9 @@ persistência de estado, empacotamento para Windows e pipeline de releases versi
 | Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
 | [**portfolio**](https://github.com/nicolasmoreiraferreira/portfolio) | Site pessoal com projetos, habilidades e contato. Deploy automático via GitHub Actions. [Ver online](https://nicolasmoreiraferreira.github.io/portfolio/) | React, TypeScript, Vite, Tailwind |
+| [**controle-financeiro**](https://github.com/nicolasmoreiraferreira/controle-financeiro) | Painel financeiro web em produção: lançamentos por WhatsApp, cartões, contas fixas, metas, backup e contas convidadas com dados isolados. Vitrine técnica — código privado. [Ver online](https://controlefinanceirosnay.com) | React, TypeScript, tRPC, Drizzle, MySQL |
 | **BOTSNAY** (privado) | Plataforma desktop de automação de processos web: 190+ módulos Python, sessões isoladas de navegador, concorrência com threads e pipeline de releases versionadas. | Python, Playwright, Tkinter, Threading, CI/CD |
+| **Convite Digital com RSVP** (privado) | Site de evento com contagem regressiva, confirmação de presença online e painel do dono para acompanhar a lista de convidados. | React, TypeScript, Node.js, Banco de dados |
 | [**projeto-login**](https://github.com/nicolasmoreiraferreira/projeto-login) | Tela de login responsiva com layout em duas colunas e uso completo por teclado. [Demo](https://nicolasmoreiraferreira.github.io/projeto-login/) | HTML, CSS Grid |
 | [**projeto-social**](https://github.com/nicolasmoreiraferreira/projeto-social) | Painel com mockup de celular feito em CSS e telas de redes sociais navegáveis por iframe. [Demo](https://nicolasmoreiraferreira.github.io/projeto-social/) | HTML, CSS, iframe |
 | [**projeto-android**](https://github.com/nicolasmoreiraferreira/projeto-android) | Página de conteúdo longo com tipografia hierárquica, mídia responsiva e fontes locais. [Demo](https://nicolasmoreiraferreira.github.io/projeto-android/) | HTML, CSS |
@@ -80,10 +87,10 @@ persistência de estado, empacotamento para Windows e pipeline de releases versi
 
 ## O que estou estudando agora
 
+- Arquitetura de APIs tipadas e modelagem de banco de dados relacional
 - Testes automatizados de interface e de back-end
 - Acessibilidade avançada e auditorias com Lighthouse
-- Consumo de APIs REST com estados de carregamento e erro tratados
-- Node.js e construção de APIs próprias
+- Integrações com serviços externos, webhooks e idempotência de operações
 
 ## Contato
 
