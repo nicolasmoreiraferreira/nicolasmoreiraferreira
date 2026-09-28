@@ -17,6 +17,7 @@ desenvolvo automações e integrações em Python e Node.js. Cursando Análise e
 de Sistemas. Foco em código legível, acessibilidade, performance e confiabilidade.
 
 [![Portfólio](https://img.shields.io/badge/🌐_Portfólio-online-22d3ee?style=for-the-badge)](https://nicolasmoreiraferreira.github.io/portfolio/)
+[![Currículo](https://img.shields.io/badge/📄_Currículo-PDF_·_PT_e_EN-0f4c81?style=for-the-badge)](https://nicolasmoreiraferreira.github.io/curriculo/)
 [![Repositórios](https://img.shields.io/badge/📦_Repositórios-ver_todos-181717?style=for-the-badge&logo=github)](https://github.com/nicolasmoreiraferreira?tab=repositories)
 
 </div>
