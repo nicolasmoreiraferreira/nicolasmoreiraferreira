@@ -70,7 +70,9 @@ navegador, persistência de estado e pipeline de releases versionadas.
 
 | Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
+| [**Estados**](https://github.com/nicolasmoreiraferreira/estados) | Laboratório aberto para provocar 12 condições reais de API — erro, sessão expirada, sem permissão, sem conexão e volume — e verificar como cada tela reage. São 175 testes automatizados; [abrir demonstração](https://nicolasmoreiraferreira.github.io/estados/). | React 19, TypeScript, Vitest, Playwright, Tailwind |
 | [**portfolio**](https://github.com/nicolasmoreiraferreira/portfolio) | Site pessoal com projetos, habilidades e contato. Deploy automático via GitHub Actions. [Ver online](https://nicolasmoreiraferreira.github.io/portfolio/) | React, TypeScript, Vite, Tailwind |
+| [**curriculo**](https://github.com/nicolasmoreiraferreira/curriculo) | Currículo versionado em português e inglês, com PDFs prontos para candidatura e site permanente. [Abrir currículo](https://nicolasmoreiraferreira.github.io/curriculo/). | Typst, GitHub Pages, Markdown |
 | [**controle-financeiro**](https://github.com/nicolasmoreiraferreira/controle-financeiro) | Painel financeiro web em produção: lançamentos por WhatsApp, cartões, contas fixas, metas, backup e contas convidadas com dados isolados. Vitrine técnica — código privado. [Ver online](https://controlefinanceirosnay.com) | React, TypeScript, tRPC, Drizzle, MySQL |
 | **BOTSNAY** (privado) | Plataforma desktop de automação de processos web: 190+ módulos Python, sessões isoladas de navegador, concorrência com threads e pipeline de releases versionadas. | Python, Playwright, Tkinter, Threading, CI/CD |
 | **Convite Digital com RSVP** (privado) | Site de evento com contagem regressiva, confirmação de presença online e painel do dono para acompanhar a lista de convidados. | React, TypeScript, Node.js, Banco de dados |
