@@ -88,6 +88,14 @@ navegador, persistência de estado e pipeline de releases versionadas.
 - **Superior de Tecnologia em Análise e Desenvolvimento de Sistemas** — Cruzeiro do Sul, Graduação EAD (em andamento, desde 2026)
 - **Desenvolvimento Front-end: HTML5, CSS3 e JavaScript** — Curso em Vídeo (2023)
 
+## Certificações
+
+| Certificação | Emissor | Carga horária | Ano |
+| --- | --- | --- | --- |
+| **Explorador do Universo Digital e IA** — pensamento computacional, fundamentos de hardware e software, lógica de algoritmos, arquitetura de internet e computação em nuvem e ética em inteligência artificial | Universidade Cruzeiro do Sul | 4h | 2026 |
+
+Credencial verificável. Código de autenticação: `a2fb632a-1477-480f-9cec-05a4f753d802`
+
 ## O que estou estudando agora
 
 - Arquitetura de APIs tipadas e modelagem de banco de dados relacional
