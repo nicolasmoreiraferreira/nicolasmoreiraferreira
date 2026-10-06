@@ -38,6 +38,9 @@ tipagem estática, consumo de APIs REST e experiência de uso.
 financeiro web com API tipada (tRPC), banco de dados MySQL e lançamento por WhatsApp, além de
 um sistema de automação de processos web com mais de 190 módulos, orquestração de sessões de
 navegador, persistência de estado e pipeline de releases versionadas.
+Uso agentes de IA no desenvolvimento desses sistemas em produção e construí a camada de guardrails
+que torna isso seguro: bloqueio de escrita em caminhos sensíveis antes que aconteça, validação de
+segredos na saída e revisores independentes obrigados a emitir um veredito explícito.
 
 - Trato **acessibilidade (WCAG)** e **responsividade** como requisitos, não como extras.
 - Aplico **testes de regressão** e **CI/CD** para impedir que código quebrado chegue à produção.
@@ -102,6 +105,7 @@ Credencial verificável. Código de autenticação: `a2fb632a-1477-480f-9cec-05a
 - Testes automatizados de interface e de back-end
 - Acessibilidade avançada e auditorias com Lighthouse
 - Integrações com serviços externos, webhooks e idempotência de operações
+- Segurança de agentes de IA: hooks de bloqueio, validação automática e revisão independente
 
 ## Contato
 
@@ -114,3 +118,4 @@ Credencial verificável. Código de autenticação: `a2fb632a-1477-480f-9cec-05a
 <div align="center">
 <sub>Aberto a oportunidades de estágio e posições júnior — Baixada Santista, São Paulo capital ou remoto.</sub>
 </div>
+| [**ia-guardrails**](https://github.com/nicolasmoreiraferreira/ia-guardrails) | Camada de controle que permite a um agente de IA escrever código em um sistema em produção **sem** acesso a credenciais, dados de clientes ou sessões de navegador: bloqueio por hook antes da escrita, validação de segredos na saída e revisores independentes com veredito obrigatório. Recorte funcional e sanitizado. | Python, Claude Code, Hooks |
