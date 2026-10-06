@@ -74,6 +74,7 @@ segredos na saída e revisores independentes obrigados a emitir um veredito expl
 | Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
 | [**Estados**](https://github.com/nicolasmoreiraferreira/estados) | Laboratório aberto para provocar 12 condições reais de API — erro, sessão expirada, sem permissão, sem conexão e volume — e verificar como cada tela reage. São 175 testes automatizados; [abrir demonstração](https://nicolasmoreiraferreira.github.io/estados/). | React 19, TypeScript, Vitest, Playwright, Tailwind |
+| [**ia-guardrails**](https://github.com/nicolasmoreiraferreira/ia-guardrails) | Camada de controle que permite a um agente de IA escrever código em um sistema em produção **sem** acesso a credenciais, dados de clientes ou sessões de navegador: bloqueio por hook antes da escrita, validação de segredos na saída e revisores independentes com veredito obrigatório. Recorte funcional e sanitizado. | Python, Claude Code, Hooks |
 | [**portfolio**](https://github.com/nicolasmoreiraferreira/portfolio) | Site pessoal com projetos, habilidades e contato. Deploy automático via GitHub Actions. [Ver online](https://nicolasmoreiraferreira.github.io/portfolio/) | React, TypeScript, Vite, Tailwind |
 | [**curriculo**](https://github.com/nicolasmoreiraferreira/curriculo) | Currículo versionado em português e inglês, com PDFs prontos para candidatura e site permanente. [Abrir currículo](https://nicolasmoreiraferreira.github.io/curriculo/). | Typst, GitHub Pages, Markdown |
 | [**controle-financeiro**](https://github.com/nicolasmoreiraferreira/controle-financeiro) | Painel financeiro web em produção: lançamentos por WhatsApp, cartões, contas fixas, metas, backup e contas convidadas com dados isolados. Vitrine técnica — código privado. [Ver online](https://controlefinanceirosnay.com) | React, TypeScript, tRPC, Drizzle, MySQL |
@@ -118,4 +119,3 @@ Credencial verificável. Código de autenticação: `a2fb632a-1477-480f-9cec-05a
 <div align="center">
 <sub>Aberto a oportunidades de estágio e posições júnior — Baixada Santista, São Paulo capital ou remoto.</sub>
 </div>
-| [**ia-guardrails**](https://github.com/nicolasmoreiraferreira/ia-guardrails) | Camada de controle que permite a um agente de IA escrever código em um sistema em produção **sem** acesso a credenciais, dados de clientes ou sessões de navegador: bloqueio por hook antes da escrita, validação de segredos na saída e revisores independentes com veredito obrigatório. Recorte funcional e sanitizado. | Python, Claude Code, Hooks |
